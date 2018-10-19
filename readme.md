@@ -4,6 +4,7 @@
 
 | Name                     | Title                               | Contact                                                                              |
 | ------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------ |
+| Tim N Lütje          | Web/UI-Design                | [website](http://www.null9.com/)                                           |
 | Alisha Steffens          | Marketing Conversion                | [website](https://www.alisha-steffens.de/)                                           |
 | Johanna Aust             | UX Design                           | [Xing](https://www.xing.com/profile/Johanna_Aust)                                    |
 | Melanie Bott             | CD Interactive UX/UI                | [Xing](https://www.xing.com/profile/Melanie_Bott4)                                   |
